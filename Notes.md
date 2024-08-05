@@ -1,3 +1,6 @@
+# Source:
+https://github.com/stanleyedward/panorama-image-stitching.git
+
 # Modules Used:
 dependencies:
   - python=3.11.5
